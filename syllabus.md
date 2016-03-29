@@ -305,19 +305,14 @@ More data viz in Jupyter
 
 **Homework:**
 
-Data viz assignment TBD
-
 ###March 8, 2016###
 
 **In class:**
 
-* GIS in journalism -- stories with maps
-* Intro to GIS
-* When is a map not a map
+More data viz in Jupyter
 
 **Homework:**
 
-GIS homework to be assigned
 
 ###March 10, 2016###
 
@@ -335,6 +330,7 @@ GIS homework to be assigned
 
 **In class:**
 
+* Line edits, sign up for a time, no class meeting.
 
 **Homework:**
 
@@ -352,24 +348,26 @@ Prepare your final story pitch.
 
 **In class:**
 
-* Story pitches.
-* Writing with data
-* Critical looks at data journalism
+* GIS in journalism -- stories with maps
+* Intro to GIS
+* When is a map not a map
 
 **Homework:**
 
-Reading assignment TBD
+Prepare your story pitch
+GIS assignment
 
 ###March 31, 2016###
 
 **In class:**
 
-* Epistemology and Truth
-* Transparency and clarity
+* Story pitches.
+* More GIS
 
 **Homework:**
 
-Reading assignment TBD
+GIS assignment TBD
+Reading Assignment TBD
 
 ###April 5, 2016###
 
@@ -383,22 +381,22 @@ Reading assignment TBD
 
 **In class:**
 
-* A brief into to statistics in journalism
-* Using stats in Jupyter
+* Writing with numbers
+* Truth and epistemic justification
 
 **Homework:**
 
-Stats assignment TBD
+None
 
 ###April 14, 2016###
 
 **In class:**
 
-* More stats
+* Working with PDFs
 
 **Homework:**
 
-Stats assignment TBD
+PDF assignment TBD
 
 ###April 19, 2016###
 
@@ -420,25 +418,17 @@ The Open Records Quest Lightning Talks;
 
 **Homework:**
 
-Work on your final projects.
+Final Projects are due on April 22 at 5 p.m.
 
 ###April 26, 2016###
 
 **In class:**
 
-* The future of data journalism;
-* How to get a job with what you've learned;
-
-**Homework:**
-
-None. Stories due Thursday.
+Line edits, sign up for a time, no class meeting.
 
 ###April 28, 2016###
 
 **In class:**
 
-Line edits, sign up for a time, no class meeting.
-
-**Homework:**
-
-None, we're done.
+* The future of data journalism;
+* How to get a job with what you've learned;
